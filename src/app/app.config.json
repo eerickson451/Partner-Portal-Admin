@@ -1,0 +1,13 @@
+{
+  "appname": "Partner Portal Admin",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader DevCenterWebHookAdmin",
+  "clientid": "F79AFC0F-C27D-4280-AC39-48EFB6C49224",
+  "buyerid": "ParnterPortal",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
